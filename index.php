@@ -31,6 +31,7 @@
 			font-size:16px;
 			padding:0px;
 			margin:0px;
+			color:#ff0000;
 		}
 
 		td{
@@ -55,7 +56,14 @@
 		}
 
 		.hold{
-border-radius:10px; padding:10px; width:100%; max-width:700px; margin-left:auto; margin-right:auto; border:1px #ccc dashed; font-size:14px; margin-top:20px;
+			border-radius:10px; 
+			padding:10px;
+			width:100%; 
+			max-width:700px;
+			margin-left:auto; 
+			margin-right:auto; 
+			border:1px #ccc dashed; 
+			font-size:14px; margin-top:20px;
 		}
 
 		.cell{
@@ -105,9 +113,9 @@ border-radius:10px; padding:10px; width:100%; max-width:700px; margin-left:auto;
 		<table>
 			<tr>
 				<td style="padding-left:0px;">
-					<img src="/jjsmall.png"  style="width:85px; border-radius:100px;"/> 
+					<img src="/jjsmall.png"  style="width:105px; border-radius:100px;"/> 
 				</td>
-				<td style="padding-left:10px; padding-right:20px; color:#777;">
+				<td style="padding-left:10px; padding-right:10px; color:#777;">
 
 					Dropped out of Clemson University in 2004 after seeing thefacebook.com. Launched Peerprofile.com to compete with Facebook but unable to catch their traction. Created Testrific a social entertainment portal which grew to have 25 Million+ registered users. Have since been involved in a decent number of startups & lately obsessed with blockchain technology.
 
@@ -128,21 +136,21 @@ border-radius:10px; padding:10px; width:100%; max-width:700px; margin-left:auto;
 	</div>
 
 	<div class="cell cell1">
-		<div style="padding-bottom:30px; margin-top:-10px; padding-top:5px;">
+		<div style="margin-top:-10px; padding-top:5px;">
 			<div style="margin-top:20px; ">
 				<h2>Projects</h2>
 			</div>
 
 			<div style="margin-top:10px;">
-				<a style="text-decoration:none;" href="http://www.coinworth.io">CoinWorth.io</a> - Coin Price Prediction Market
+				<a style="text-decoration:none;" href="http://www.coinworth.io" target="_blank">CoinWorth.io</a> - Coin Price Prediction Market
 			</div>
 
 			<div style="margin-top:10px;">
-				<a style="text-decoration:none;" href="http://www.galaxus.io">Galaxus.io</a> - Browser Based MMORPG
+				<a style="text-decoration:none;" href="http://www.galaxus.io" target="_blank">Galaxus.io</a> - Browser Based MMORPG
 			</div>
 
 			<div style="margin-top:10px;">
-				<a style=" text-decoration:none;" href="http://www.galaxus.io">Votable.com</a> - Community Pages
+				<a style=" text-decoration:none;" href="http://www.votable.com" target="_blank">Votable.com</a> - Community Pages
 			</div>
 
 			<div style="margin-top:10px;">
@@ -150,11 +158,11 @@ border-radius:10px; padding:10px; width:100%; max-width:700px; margin-left:auto;
 			</div>
 
 			<div style="margin-top:10px;">
-				<a style="text-decoration:none;" href="http://www.galaxus.io">Scholarspot.com</a> - Free University
+				<a style="text-decoration:none;" href="http://www.scholarspot.com" target="_blank">Scholarspot.com</a> - Free University
 			</div>
 
 			<div style="margin-top:10px;">
-				<a style="text-decoration:none;" href="http://www.galaxus.io">Testriffic.com</a> - Social Entertainment Portal.
+				<a style="text-decoration:none;" href="http://www.testrific.com" target="_blank">Testriffic.com</a> - Social Entertainment Portal.
 			</div>
 
 		</div>
@@ -164,11 +172,11 @@ border-radius:10px; padding:10px; width:100%; max-width:700px; margin-left:auto;
 
 		<div>
 			<h2 style="margin-top:3px;">Music</h2>
-			<div style="margin-top:7px;">16 / <a href="/dj">Awakening</a></div>	
-			<div style="margin-top:7px;">15 / <a href="/dj">Colours</a></div>	
-			<div style="margin-top:7px;">14 / <a href="/dj">Rejuvenation</a></div>	
+			<div style="margin-top:7px;">16 / <a href="/dj/mixes/016_Awakening.mp3">Awakening</a></div>	
+			<div style="margin-top:7px;">15 / <a href="/dj/mixes/DJoe_-_015_-_Colours.mp3">Colours</a></div>	
+			<div style="margin-top:7px;">14 / <a href="/dj/mixes/DJoe_-_014_-_Rejuvenation.mp3">Rejuvenation</a></div>	
 			<div style="margin-top:10px;">
-				<a style="font-size:12px;" href="/dj">More</a>
+				<a style="font-size:12px;" href="/dj/">More</a>
 			</div>
 
 

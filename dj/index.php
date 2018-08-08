@@ -132,7 +132,7 @@ a{
 
 			<br /><br />
 
-			<a href="http://www.jospire.com/dj/mixes/016_Awakening.mp3">Download Here ( Right click save as )</a>
+			<a href="/dj/mixes/016_Awakening.mp3">Download Here ( Right click save as )</a>
 
 		</td>
 	</tr>
@@ -276,7 +276,7 @@ a{
 	</table>
 
 			<div style="margin-top:20px;">
-				<a href="http://www.jospire.com/dj/mixes/DJoe_-_015_-_Colours.mp3">Download Here ( Right click save as )</a>
+				<a href="/dj/mixes/DJoe_-_015_-_Colours.mp3">Download Here ( Right click save as )</a>
 			</div>
 
 	</tr>
@@ -308,7 +308,7 @@ a{
 
 			<br /><br />
 
-			<a href="http://www.jospire.com/dj/mixes/DJoe_-_014_-_Rejuvenation.mp3">Download Here ( Right click save as )</a>
+			<a href="/dj/mixes/DJoe_-_014_-_Rejuvenation.mp3">Download Here ( Right click save as )</a>
 
 		</td>
 	</tr>
@@ -342,7 +342,7 @@ a{
 
 			<br /><br />
 
-			<a href="http://www.jospire.com/dj/mixes/DJoe_-_013_-_Inspire.mp3">Download Here ( Right click save as )</a>
+			<a href="/dj/mixes/DJoe_-_013_-_Inspire.mp3">Download Here ( Right click save as )</a>
 
 		</td>
 	</tr>
@@ -373,7 +373,7 @@ a{
 
 			<br /><br />
 
-			<a href="http://www.jospire.com/dj/mixes/DJoe_012_Free_Your_Mind.mp3">Download Here ( Right click save as )</a>
+			<a href="/dj/mixes/DJoe_012_Free_Your_Mind.mp3">Download Here ( Right click save as )</a>
 
 		</td>
 	</tr>
@@ -407,14 +407,6 @@ a{
 			<div>Angelo Badalamenti - The Beach Theme ( Mythical Waters )</div>
 			<div>Solarstone - Like a Waterfall ( Lime Chill Remix )</div>
 
-<?php /*
-			<h3> Listen here </h3>
-
-			<object height="81" width="500"> <param name="movie" value="http://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F10919318&amp;show_comments=true&amp;auto_play=false&amp;color=ff7700"></param> <param name="allowscriptaccess" value="always"></param> <embed allowscriptaccess="always" height="81" src="http://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F10919318&amp;show_comments=true&amp;auto_play=false&amp;color=ff7700" type="application/x-shockwave-flash" width="100%"></embed> </object>   
-
-			<br /><br />
-
-			*/ ?> 
 			<span style="font-size:18px;font-weight:bold;"> Or </span> Not Available
 
 		</td>
@@ -445,7 +437,7 @@ a{
 
 			<br /><br />
 
-			<a href="http://www.jospire.com/dj/mixes/DJoe%20-%20010%20-%20Dreams.mp3">Download Here ( Right click save as )</a>
+			<a href="/dj/mixes/DJoe%20-%20010%20-%20Dreams.mp3">Download Here ( Right click save as )</a>
 
 		</td>
 	</tr>
@@ -474,7 +466,7 @@ a{
 
 			<br /><br />
 
-			<a href="http://www.jospire.com/dj/mixes/DJoe%20-%20009%20-%20Movements%20of%20Life.mp3">Download Here ( Right click save as )</a>
+			<a href="/dj/mixes/DJoe%20-%20009%20-%20Movements%20of%20Life.mp3">Download Here ( Right click save as )</a>
 
 		</td>
 	</tr>
@@ -503,7 +495,7 @@ a{
 
 			<br /><br />
 
-			<a href="http://www.jospire.com/dj/mixes/DJoe%20-%20008%20-%20From%20Blue%20to%20Green.mp3">Download Here ( Right click save as )</a>
+			<a href="/dj/mixes/DJoe%20-%20008%20-%20From%20Blue%20to%20Green.mp3">Download Here ( Right click save as )</a>
 
 		</td>
 	</tr>
@@ -536,7 +528,7 @@ a{
 
 			<br /><br />
 
-			<a href="http://www.jospire.com/dj/mixes/DJoe%20-%20007%20-%20Flow.mp3">Download Here ( Right click save as )</a>
+			<a href="/dj/mixes/DJoe%20-%20007%20-%20Flow.mp3">Download Here ( Right click save as )</a>
 
 		</td>
 	</tr>
@@ -563,7 +555,7 @@ a{
 
 			<br /><br />
 
-			<a href="http://www.jospire.com/dj/mixes/DJoe%20-%20006%20-%20Beyond%20Time.mp3">Download Here ( Right click save as )</a>
+			<a href="/dj/mixes/DJoe%20-%20006%20-%20Beyond%20Time.mp3">Download Here ( Right click save as )</a>
 
 		</td>
 	</tr>
@@ -592,7 +584,7 @@ a{
 
 			<br /><br />
 
-			<a href="http://www.jospire.com/dj/mixes/DJoe%20-%20005%20-%20Into%20the%20Light.mp3"> Download Here ( Right click save as )</a>
+			<a href="/dj/mixes/DJoe%20-%20005%20-%20Into%20the%20Light.mp3"> Download Here ( Right click save as )</a>
 
 		</td>
 	</tr>
