@@ -10,9 +10,12 @@
 <html>
 <head>
 	<title>Joseph Winterhalter</title>
-	<meta name="viewport" content="width=device-width, initial-scale=1.4">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
 
 </head>
+
+<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+
 <body>
 
 
@@ -39,11 +42,11 @@
 		}
 
 		html{
+			font-family: 'Roboto', sans-serif;
 
 		}
 
 		body{
-			font-family:arial;
 			margin:0px;
 			padding:0px;
 		}
@@ -56,14 +59,14 @@
 		}
 
 		.hold{
-			border-radius:10px; 
 			padding:10px;
 			width:100%; 
 			max-width:700px;
 			margin-left:auto; 
 			margin-right:auto; 
-			border:1px #ccc dashed; 
-			font-size:14px; margin-top:20px;
+			font-size:14px; margin-top:0px;
+			border-left:0px;
+			border-right:0px;
 		}
 
 		.cell{
@@ -71,6 +74,8 @@
 			float:left;
 			margin-top:10px;
 			margin-bottom:10px;
+			border-bottom:1px #ccc dashed; padding-bottom:10px;
+
 		}
 
 		.cell1{
@@ -86,6 +91,15 @@
 		  clear: both;
 		}
 
+		.bio{
+			padding-left:10px; 
+			padding-right:15px; 
+			color:#777;
+		}
+
+		.pic1{  
+			width:105px;
+		}
 		  
 		@media only screen and (min-width : 768px){
 				width:50%;
@@ -95,6 +109,14 @@
 			.cell{
 				width:100%;
 			}
+
+			.pic1{  
+				width:75px;
+			}
+
+			.bio{
+				font-size:13px;
+			}
 		}
 
 
@@ -103,7 +125,7 @@
 
 
 
-<div class="clearfix hold" style="">
+<div class="clearfix hold">
 
 	<div class="clearfix" style="width:100%; margin-top:-10px;">
 		<div>
@@ -113,11 +135,11 @@
 		<table>
 			<tr>
 				<td style="padding-left:0px;">
-					<img src="/jjsmall.png"  style="width:105px; border-radius:100px;"/> 
+					<img src="/jjsmall.png"  class="pic1" style=" border-radius:100px;"/> 
 				</td>
-				<td style="padding-left:10px; padding-right:10px; color:#777;">
+				<td class="bio" >
 
-					Dropped out of Clemson University in 2004 after seeing thefacebook.com. Launched Peerprofile.com to compete with Facebook but unable to catch their traction. Created Testrific a social entertainment portal which grew to have 25 Million+ registered users. Have since been involved in a decent number of startups & lately obsessed with blockchain technology.
+					After seeing thefacebook.com in 2004 and knowing it would become the next microsoft I dropped out of Clemson University. Initially launched Testrific.com a social entertainment portal which grew to have 25 Million+ registered users. Have since been involved in a number of startups & lately focused on blockchain technology.
 
 			</td>
 		</tr>
@@ -125,12 +147,12 @@
 
 	</div>
 
-	<div class="cell">
+	<div class="cell" >
 		<div style="margin-top:15px;">
 			<h2>Writings</h2>
 		</div>
 		<div style="margin-top:10px;">
-			Visions on decentralized consensus <br />
+			<h3>Visions on decentralized consensus </h3>
 			<span style="color:#aaa;">( Coming soon )</span>
 		</div>
 	</div>
@@ -154,7 +176,7 @@
 			</div>
 
 			<div style="margin-top:10px;">
-				Project Life - Semantic life logic interpreter
+				<span style="color:#aaa;">Project Life</span> - Semantic life logic interpreter
 			</div>
 
 			<div style="margin-top:10px;">
@@ -191,7 +213,7 @@
 			<h2>Contact</h2>
 		</div>
 		<div style="margin-top:5px;">
-			<a href="http://www.twitter.com/archimedes144">Twitter</a> 
+			<a href="http://www.twitter.com/archimedes144">Twitter</a> - 
 			<a style="margin-left:10px;" href="https://www.linkedin.com/in/joseph-winterhalter">LinkedIn</a> 
 		</div>
 
