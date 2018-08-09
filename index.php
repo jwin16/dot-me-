@@ -14,7 +14,7 @@
 
 </head>
 
-<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Roboto:400,700" rel="stylesheet">
 
 <body>
 
@@ -28,13 +28,18 @@
 		h1{
 
 			font-size:20px;
+			font-weight:400;
 		}
 
 		h2{
 			font-size:16px;
 			padding:0px;
 			margin:0px;
-			color:#ff0000;
+			font-weight:900;
+		}
+
+		h3{
+			font-weight:400;
 		}
 
 		td{
